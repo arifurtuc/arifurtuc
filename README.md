@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arifur Rahman
-- 👀 I’m interested in problem solving in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on interesting sfotware development projects
+- 👀 I’m interested in problem-solving in Python
+- 💞️ I’m looking to collaborate on exciting software development projects
 - 📫 You can reach me at arifur.tuc@gmail.com
 
 <!---
