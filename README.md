@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arifur Rahman
-- 👀 I’m interested in problem-solving in Python
+- 👀 I’m interested in problem-solving in Python, TypeScript, Java
 - 💞️ I’m looking to collaborate on exciting software development projects
 - 📫 You can reach me at arifur.tuc@gmail.com
 
